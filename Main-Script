@@ -3,12 +3,12 @@
 local omni = loadstring(game:HttpGet("https://raw.githubusercontent.com/BestLeak8866/LeakedFrise-X/main/UI-Library"))()
 
 local UI = omni.new({
-    Name = "🔮 Frise X v1.1.2 🔮";
-    Credit = "Created by Frise X";
+    Name = "🔮 Pandora Hub 🔮";
+    Credit = "Created by Lord1k";
     Color = Color3.fromRGB(122,28,187);
     Bind = "LeftControl";
     UseLoader = false;
-    FullName = "Frise X v1.1.2";
+    FullName = "Pandora Hub v1.1.2";
     CheckKey = function(inputtedKey)
         return inputtedKey=="123"
     end;
@@ -1382,15 +1382,15 @@ local Section = Pages10:CreateSection("Credits")
 
 Section:CreateInteractable({
     ActionText = "I'M GAY";
-    Name = "Created by frise and killerses";
+    Name = "Created by lord1k";
 })
 
 Section:CreateInteractable({
     ActionText = "I'M GAY";
-    Name = "Discord frise#8792";
+    Name = "Discord Lord1k#2111";
 })
 
 Section:CreateInteractable({
     ActionText = "I'M GAY";
-    Name = "Server dsc.gg/ragdoll-crasher";
+    Name = "Server dsc.gg/Q6bcgVTNeX";
 })
